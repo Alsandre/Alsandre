@@ -31,7 +31,7 @@ standards, resulting in a 100% satisfaction rate among users and the owner.
 - ● Improved consistency and code maintenance by TypeScript integration.
 
 ### EDUCATION
-_**● Bachelor of Computer Science | Georgian Technical University 2010 - 2014**_
+_**● Bachelor of Computer Science | Georgian Technical University 2012 - 2017**_
 
 ### CERTIFICATIONS
 
