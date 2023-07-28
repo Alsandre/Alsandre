@@ -4,7 +4,7 @@
 
 ## Hey 👋, I'm Lekso!  
 
-Highly motivated, Junior React & React Native developer with good understanding of Javascript fundamentals. <br>
+React & React Native developer with good understanding of Javascript fundamentals. <br>
 Always stays up to date on the best practices and committed to write clean, consistent and maintainable code. <br>
 Strong debugging and problem-solving skills.
 
