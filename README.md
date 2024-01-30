@@ -49,7 +49,6 @@ _**● Bachelor of Computer Science | Georgian Technical University 2012 - 2017*
 </a>  
   
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=alsandre)](https://git.io/streak-stats)
 
 #### Footer Stats
   [![Lekso's GitHub stats](https://github-readme-stats.vercel.app/api?username=alsandre)](https://github.com/alsandre/github-readme-stats)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alsandre&layout=compact)](https://github.com/alsandre/github-readme-stats)
