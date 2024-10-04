@@ -15,50 +15,50 @@ Strong debugging and problem-solving skills.
 
 ### SKILLS
 
-- ● Engineering: Architecture Design & Coding, Frontend & UI/UX, Mobile, Code Standards, Documentation
-- ● Personal: Self-Development, Strategic Planning & Execution, Project Management, Prioritization, Process Improvement,
+- Engineering: Architecture Design & Coding, Frontend & UI/UX, Mobile, Code Standards, Documentation
+- Personal: Self-Development, Strategic Planning & Execution, Project Management, Prioritization, Process Improvement,
   Cross-functional Collaboration
 
 ### EXPERIENCE
 
 **Etlyn _June 2024 - Present_**
 
-● Working with a highly qualified team to deliver content management solutions for startups and companies.
-● Centralising company related data in one place and bringing creative web ideas to life.
-● Building stunning pages from scratch and implementing company data and services through Control-x API.
+- Working with a highly qualified team to deliver content management solutions for startups and companies.
+- Centralising company related data in one place and bringing creative web ideas to life.
+- Building stunning pages from scratch and implementing company data and services through Control-x API.
 
 **Fabricon _March 2024 – September 2024_**
 
-● Metal fabrication company focusing on metal door manufacturing and offering various types of services related to metal
-fabrication.
-● Specialising in computer numerical control systems, I had to interact with various types of CNC machinery, namely DELEM
-press brake API, Krass sheet metal fibre lasers, QJAR welding robot.
-● Implemented robot program for metal door manufacturing.
+- Metal fabrication company focusing on metal door manufacturing and offering various types of services related to metal
+  fabrication.
+- Specialising in computer numerical control systems, I had to interact with various types of CNC machinery, namely DELEM
+  press brake API, Krass sheet metal fibre lasers, QJAR welding robot.
+- Implemented robot program for metal door manufacturing.
 
 **MastersWay _November 2023 - March 2024_**
 
-● A platform for mentors and apprentices for seamless communication. The application can be used as a tool for achieving
-goals while helping with defining and managing goals and recording progress that can be used to learn on.
-● As an QA specialist my job was to create and manage testing documentation, create and implement E2E/Smoke tests.
-● Collaborating with designers and developers implementing automated tests for application stability and maintainability.
+- A platform for mentors and apprentices for seamless communication. The application can be used as a tool for achieving
+  goals while helping with defining and managing goals and recording progress that can be used to learn on.
+- As an QA specialist my job was to create and manage testing documentation, create and implement E2E/Smoke tests.
+- Collaborating with designers and developers implementing automated tests for application stability and maintainability.
 
 **Marikone _January 2023 - April 2024_**
 
-● A portfolio web page for web designers with stunning visuals and responsive layout.
-● Implemented full scale web app from scratch based on Figma design.
-● First commercial project, despite being a piece of cake from today's perspective, still memorable.
+- A portfolio web page for web designers with stunning visuals and responsive layout.
+- Implemented full scale web app from scratch based on Figma design.
+- First commercial project, despite being a piece of cake from today's perspective, still memorable.
 
 ### EDUCATION
 
-_**● Bachelor of Computer Science | Georgian Technical University 2012 - 2017**_
-_**● Master of Computer Science | Georgian Technical University 2024 - present**_
+_**Bachelor of Computer Science | Georgian Technical University 2012 - 2017**_
+_**Master of Computer Science | Georgian Technical University 2024 - present**_
 
 ### CERTIFICATIONS
 
-- ● Javascript fundamentals | [Academy of Digital industries](https://digitaledu.uk/)
-- ● React Complete Guide | [Udemy](https://www.udemy.com/)
-- ● HTML & CSS fundamentals | Responsive Web Design Certificate | [freeCodeCamp](https://www.freecodecamp.org/)
-- ● Advanced Javascript | Algorithms and Data Structures Certificate | [freeCodeCamp](https://www.freecodecamp.org/)
+- Javascript fundamentals | [Academy of Digital industries](https://digitaledu.uk/)
+- React Complete Guide | [Udemy](https://www.udemy.com/)
+- HTML & CSS fundamentals | Responsive Web Design Certificate | [freeCodeCamp](https://www.freecodecamp.org/)
+- Advanced Javascript | Algorithms and Data Structures Certificate | [freeCodeCamp](https://www.freecodecamp.org/)
 
 #### Contact
 
