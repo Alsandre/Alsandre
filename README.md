@@ -10,16 +10,26 @@ Strong debugging and problem-solving skills.
 
 ## My Tech Stack
 
-[React](https://reactjs.org/) | [React Native](https://reactnative.dev/) | [TypeScript](https://www.typescriptlang.org/) | [Javascript](https://www.javascript.com/) | [Redux](https://redux.js.org/) | [Next.js](https://nextjs.org/) | [Node.js](https://nodejs.org/en/about) | [HTML5](https://www.w3.org/TR/2011/WD-html5-20110405/)/[CSS3](https://www.w3.org/Style/CSS/specs.en.html) | [LESS](https://lesscss.org/)/[SASS/SCSS](https://sass-lang.com/) |
-[Firebase](https://firebase.google.com/docs/firestore)/[Firestore](https://firebase.google.com/docs/firestore) | [RESTful](https://wiki.onap.org/display/DW/RESTful+API+Design+Specification) | [GraphQL](https://graphql.org/) | [API](https://en.wikipedia.org/wiki/API) | [Git](https://git-scm.com/) | [Tailwindcss](https://tailwindcss.com/) | [PostgreSQL](https://www.postgresql.org/)
+[React](https://reactjs.org/) | [TypeScript](https://www.typescriptlang.org/) | [Javascript](https://www.javascript.com/) | [Redux](https://redux.js.org/) | [Next.js](https://nextjs.org/) | [HTML5](https://www.w3.org/TR/2011/WD-html5-20110405/)/[CSS3](https://www.w3.org/Style/CSS/specs.en.html) | [LESS](https://lesscss.org/)/[SASS/SCSS](https://sass-lang.com/) | [Git](https://git-scm.com/) | [Tailwindcss](https://tailwindcss.com/)
 
 ### SKILLS
 
-- Engineering: Architecture Design & Coding, Frontend & UI/UX, Mobile, Code Standards, Documentation
-- Personal: Self-Development, Strategic Planning & Execution, Project Management, Prioritization, Process Improvement,
+- Engineering: Architecture Design & Coding, Code Standards, Documentation, Attention to Details, Debugging
+- Personal: Self-Development, Strategic Planning & Execution, Prioritization, Process Improvement,
   Cross-functional Collaboration
 
 ### EXPERIENCE
+
+**Codevelop Technologies _December 2024 - Present_**
+
+- Crafting digital Ad experiences
+- Collaborating with a highly professional team and using various technologies to meet project requirements
+  
+**Doer _October 2024 - Present_**
+
+- Collaborating with a diverse team of 10 people on a startup project.
+- As a frontend developer, I work with my colleagues to bring aesthetically appealing applications to life.
+- The project's goal is to create a platform that helps users find free parking spaces, currently offering services in Tbilisi.
 
 **Etlyn _June 2024 - Present_**
 
