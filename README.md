@@ -4,71 +4,111 @@
 
 ## Hey 👋, I'm Lekso!
 
-Frontend developer with good understanding of Javascript fundamentals. <br>
-Always stays up to date on the best practices and committed to write clean, consistent and maintainable code. <br>
-Strong debugging and problem-solving skills.
+Web developer focused on modern frontend with TypeScript, React and Next.js. <br>
+I stay up to date with best practices and write clean, consistent and maintainable code. <br>
+Strong debugging and problem-solving skills with a background in QA, CNC/automation and teaching.
+
+- 🌍 Based in **Tbilisi, Georgia**  
+- 💼 Web Developer @ **Codevelop Technologies GMBH**  
+- 🎓 MSc in **Artificial Intelligence** @ Georgian Technical University (ongoing)  
+- 🧑‍🏫 JavaScript & TypeScript **Lecturer** @ Tbilisi State University Education Center (2025)
+
+---
 
 ## My Tech Stack
 
-[React](https://reactjs.org/) | [TypeScript](https://www.typescriptlang.org/) | [Javascript](https://www.javascript.com/) | [Redux](https://redux.js.org/) | [Next.js](https://nextjs.org/) | [HTML5](https://www.w3.org/TR/2011/WD-html5-20110405/)/[CSS3](https://www.w3.org/Style/CSS/specs.en.html) | [LESS](https://lesscss.org/)/[SASS/SCSS](https://sass-lang.com/) | [Git](https://git-scm.com/) | [Tailwindcss](https://tailwindcss.com/)
+[React](https://reactjs.org/) | [TypeScript](https://www.typescriptlang.org/) | [Javascript](https://www.javascript.com/) | [Redux](https://redux.js.org/) | [Zustand](https://zustand-demo.pmnd.rs/) | [Next.js](https://nextjs.org/) | [HTML5](https://www.w3.org/TR/2011/WD-html5-20110405/)/[CSS3](https://www.w3.org/Style/CSS/specs.en.html) | [LESS](https://lesscss.org/)/[SASS/SCSS](https://sass-lang.com/) | [Tailwindcss](https://tailwindcss.com/) | [Git](https://git-scm.com/) | [Jest](https://jestjs.io/) | [Playwright](https://playwright.dev/)
 
 ### SKILLS
 
-- Engineering: Architecture Design & Coding, Code Standards, Documentation, Attention to Details, Debugging
-- Personal: Self-Development, Strategic Planning & Execution, Prioritization, Process Improvement,
-  Cross-functional Collaboration
+- **Engineering:** Component-driven architecture, state management, debugging, code quality, documentation, testing mindset  
+- **Personal:** Ownership, self-development, prioritization, clear communication, working with designers & cross-functional teams  
+
+---
 
 ### EXPERIENCE
 
-**Codevelop Technologies _December 2024 - Present_**
+**Codevelop Technologies GMBH _December 2024 – Present_**  
+- Crafting pixel-perfect HTML5 ad experiences and modern banner formats.  
+- Collaborating with an international team and using various technologies to meet campaign and project requirements.
 
-- Crafting digital Ad experiences
-- Collaborating with a highly professional team and using various technologies to meet project requirements
-  
-**Doer _October 2024 - Present_**
+**Doer _October 2024 – Present_**  
+- Frontend developer on a startup building a platform to help users find free parking spaces (currently focused on Tbilisi).  
+- Working with a team of ~10 people to deliver visually appealing, responsive applications.
 
-- Collaborating with a diverse team of 10 people on a startup project.
-- As a frontend developer, I work with my colleagues to bring aesthetically appealing applications to life.
-- The project's goal is to create a platform that helps users find free parking spaces, currently offering services in Tbilisi.
+**Etlyn _June 2024 – Present_**  
+- Delivering content management solutions for startups and companies.  
+- Building marketing and product pages from scratch using a modern frontend stack.  
+- Integrating company data and services through **Control-x API**.
 
-**Etlyn _June 2024 - Present_**
+**Tbilisi State University Education Center _April 2025 – September 2025_**  
+- Lecturer for **JavaScript and TypeScript** in a professional web development program.  
+- Prepared students for real-world frontend work: tooling, debugging, and best practices.
 
-- Working with a highly qualified team to deliver content management solutions for startups and companies.
-- Centralising company related data in one place and bringing creative web ideas to life.
-- Building stunning pages from scratch and implementing company data and services through Control-x API.
+**Fabricon _March 2024 – September 2024_**  
+- Metal fabrication company focused on metal door manufacturing.  
+- Worked with CNC machinery (DELEM press brake API, Krass fibre lasers, QJAR welding robot).  
+- Implemented robot programs to optimise metal door manufacturing.
 
-**Fabricon _March 2024 – September 2024_**
+**MastersWay _November 2023 – March 2024_**  
+- Platform for mentors and apprentices for managing goals and tracking progress.  
+- Created and managed testing documentation; implemented E2E and smoke tests.  
+- Collaborated with designers and developers to improve application stability and maintainability.
 
-- Metal fabrication company focusing on metal door manufacturing and offering various types of services related to metal
-  fabrication.
-- Specialising in computer numerical control systems, I had to interact with various types of CNC machinery, namely DELEM
-  press brake API, Krass sheet metal fibre lasers, QJAR welding robot.
-- Implemented robot program for metal door manufacturing.
+**Marikone _January 2023 – April 2024_**  
+- Portfolio website for a fashion designer with strong visuals and responsive layout.  
+- Implemented the full-scale web app from scratch based on a Figma design.  
+- First commercial project — simple by today’s standards, but still important.
 
-**MastersWay _November 2023 - March 2024_**
+---
 
-- A platform for mentors and apprentices for seamless communication. The application can be used as a tool for achieving
-  goals while helping with defining and managing goals and recording progress that can be used to learn on.
-- As an QA specialist my job was to create and manage testing documentation, create and implement E2E/Smoke tests.
-- Collaborating with designers and developers implementing automated tests for application stability and maintainability.
+### SELECTED PROJECTS
 
-**Marikone _January 2023 - April 2024_**
+**Chrome Extension — Ad Campaign Monitoring**  
+- Detects advertising banners on visited pages and pulls campaign metadata (Adform + internal systems).  
+- Renders real-time analytics in an in-page UI overlay.  
+- Built with **Manifest V3**, **TypeScript** and REST API integration.
 
-- A portfolio web page for web designers with stunning visuals and responsive layout.
-- Implemented full scale web app from scratch based on Figma design.
-- First commercial project, despite being a piece of cake from today's perspective, still memorable.
+**AI Avatar Generator with Automated Prompt Optimisation**  
+- Node.js/Express REST API that turns photos into illustrated avatars using AI image APIs.  
+- Automated prompt optimisation pipeline: compares outputs to reference images and refines prompts.  
+- Vanilla JS frontend with drag-and-drop uploads and progress UI.
+
+**VS Code File Compression Extension**  
+- Adds right-click actions to zip/unzip selected files and folders directly in VS Code explorer.  
+- Built with **TypeScript** and VS Code Extension API.  
+- Supports multi-selection, timestamped archives and manifest synchronisation.
+
+**FlipFlop — Flashcard PWA**  
+- TypeScript flashcard app with offline support and clear internal architecture.  
+- Repository pattern over IndexedDB for type-safe persistence.  
+- Zustand slice-based state management and PWA service worker caching.
+
+**Chrome Extension — Resource Override Tool**  
+- Developer-focused extension to intercept and override network requests.  
+- Uses Manifest V3 Declarative Net Request API.  
+- Drag-and-drop rule management, grouping, import/export and persistent storage.
+
+**Marikone — Fashion Portfolio Website**  
+- Responsive portfolio website for a fashion designer.  
+- Built with **React**, **Redux**, **Tailwind CSS**.  
+- Focused on design fidelity, animation and maintainability.
+
+---
 
 ### EDUCATION
 
-_**Bachelor of Computer Science | Georgian Technical University 2012 - 2017**_
-_**Master of Computer Science | Georgian Technical University 2024 - present**_
+_**Bachelor of Computer Science | Georgian Technical University 2012 – 2017**_  
+_**Master of Science in Artificial Intelligence | Georgian Technical University 2024 – present**_
 
 ### CERTIFICATIONS
 
-- Javascript fundamentals | [Academy of Digital industries](https://digitaledu.uk/)
-- React Complete Guide | [Udemy](https://www.udemy.com/)
-- HTML & CSS fundamentals | Responsive Web Design Certificate | [freeCodeCamp](https://www.freecodecamp.org/)
+- Javascript fundamentals | [Academy of Digital industries](https://digitaledu.uk/)  
+- React Complete Guide | [Udemy](https://www.udemy.com/)  
+- HTML & CSS fundamentals | Responsive Web Design Certificate | [freeCodeCamp](https://www.freecodecamp.org/)  
 - Advanced Javascript | Algorithms and Data Structures Certificate | [freeCodeCamp](https://www.freecodecamp.org/)
+
+---
 
 #### Contact
 
@@ -79,8 +119,11 @@ _**Master of Computer Science | Georgian Technical University 2024 - present**_
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
+---
+
 #### Footer Stats
 
-[![Lekso's GitHub stats](https://github-readme-stats.vercel.app/api?username=alsandre)](https://github.com/alsandre/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alsandre&layout=compact)](https://github.com/alsandre/github-readme-stats)
+[![Lekso's GitHub stats](https://github-readme-stats.vercel.app/api?username=alsandre)](https://github.com/alsandre/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alsandre&layout=compact)](https://github.com/alsandre/github-readme-stats)  
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=alsandre)](https://git.io/streak-stats)
