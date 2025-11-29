@@ -123,27 +123,4 @@ _**Master of Science in Artificial Intelligence | Georgian Technical University 
 
 #### Footer Stats
 
-<div align="center">
-
-  <a href="https://github.com/alsandre">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=alsandre&show_icons=true&theme=transparent"
-      alt="Lekso's GitHub stats"
-    />
-  </a>
-
-  <a href="https://github.com/alsandre">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=alsandre&layout=compact&theme=transparent"
-      alt="Top Languages"
-    />
-  </a>
-
-  <a href="https://git.io/streak-stats">
-    <img
-      src="https://streak-stats.demolab.com?user=alsandre&theme=transparent"
-      alt="GitHub Streak"
-    />
-  </a>
-
-</div>
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=alsandre&data=followers,repositories,stars,commits&theme=github_dark)](https://github.com/alsandre)
